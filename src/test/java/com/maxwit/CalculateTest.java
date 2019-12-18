@@ -15,7 +15,7 @@ public class CalculateTest{
     public void sumTest(){
         Calculate cal = new Calculate();
         int item = cal.add(3, 4);
-        Assert.assertEquals(6, item);
+        Assert.assertEquals(7, item);
 
     }
 
